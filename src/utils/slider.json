@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Lekki Gardens",
+    "price": "$93,000",
+    "detail": "Harris drive,VGC,lekki,Lagos",
+    "image": "/r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Almond Estate",
+    "price": "$66,353",
+    "detail": " No 16c Folashade Jacobs Street Oral Estate Ikota Lekki, Lagos, Ikota, Lagos, Nigeria",
+    "image": "/r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Luxury 2 Bedroom",
+    "price": "$35,853",
+    "detail": " Lekki, Lekki, Lagos, Nigeria",
+    "image": "/r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "3 Bedroom Duplex",
+    "price": "$47,043",
+    "detail": " Goldcrest, Mega Chicken Plaza, Ikota Lekki,lagos, Nigeria., Lagos, Lagos, Nigeria",
+    "image": "/r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "5 Bedroom Duplex",
+    "price": "$66,353",
+    "detail": " No 16c Folashade Jacobs Street Oral Estate Ikota Lekki, Lagos, Ikota, Lagos, Nigeria",
+    "image": "/r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Luxury 2 Bedroom",
+    "price": "$35,853",
+    "detail": " Lekki, Lekki, Lagos, Nigeria",
+    "image": "/r3.png"
   }
 ]
